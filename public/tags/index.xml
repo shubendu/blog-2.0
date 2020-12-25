@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on My Blog</title>
+    <link>https://shubendu.github.io/tags/</link>
+    <description>Recent content in Tags on My Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://shubendu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NLP</title>
+      <link>https://shubendu.github.io/tags/nlp/</link>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shubendu.github.io/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sentiment</title>
+      <link>https://shubendu.github.io/tags/sentiment/</link>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shubendu.github.io/tags/sentiment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text Preprocessing</title>
+      <link>https://shubendu.github.io/tags/text-preprocessing/</link>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shubendu.github.io/tags/text-preprocessing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TextBlob</title>
+      <link>https://shubendu.github.io/tags/textblob/</link>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shubendu.github.io/tags/textblob/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tweets</title>
+      <link>https://shubendu.github.io/tags/tweets/</link>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shubendu.github.io/tags/tweets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>twitter</title>
+      <link>https://shubendu.github.io/tags/twitter/</link>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shubendu.github.io/tags/twitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VaderSentiment</title>
+      <link>https://shubendu.github.io/tags/vadersentiment/</link>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shubendu.github.io/tags/vadersentiment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>word cloud</title>
+      <link>https://shubendu.github.io/tags/word-cloud/</link>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shubendu.github.io/tags/word-cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CART</title>
+      <link>https://shubendu.github.io/tags/cart/</link>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shubendu.github.io/tags/cart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>decision tree</title>
+      <link>https://shubendu.github.io/tags/decision-tree/</link>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shubendu.github.io/tags/decision-tree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EDA</title>
+      <link>https://shubendu.github.io/tags/eda/</link>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shubendu.github.io/tags/eda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GridSearch</title>
+      <link>https://shubendu.github.io/tags/gridsearch/</link>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shubendu.github.io/tags/gridsearch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>loan-defaulters</title>
+      <link>https://shubendu.github.io/tags/loan-defaulters/</link>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shubendu.github.io/tags/loan-defaulters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>human activity recognition</title>
+      <link>https://shubendu.github.io/tags/human-activity-recognition/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shubendu.github.io/tags/human-activity-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>support vector</title>
+      <link>https://shubendu.github.io/tags/support-vector/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shubendu.github.io/tags/support-vector/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SVM</title>
+      <link>https://shubendu.github.io/tags/svm/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shubendu.github.io/tags/svm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>financial</title>
+      <link>https://shubendu.github.io/tags/financial/</link>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shubendu.github.io/tags/financial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>logistic regression</title>
+      <link>https://shubendu.github.io/tags/logistic-regression/</link>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shubendu.github.io/tags/logistic-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>random forest</title>
+      <link>https://shubendu.github.io/tags/random-forest/</link>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shubendu.github.io/tags/random-forest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SMOTE</title>
+      <link>https://shubendu.github.io/tags/smote/</link>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shubendu.github.io/tags/smote/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

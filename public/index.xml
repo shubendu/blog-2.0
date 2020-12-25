@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Blog</title>
+    <link>https://shubendu.github.io/</link>
+    <description>Recent content on My Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Apr 2020 20:03:58 +0530</lastBuildDate>
+    
+	<atom:link href="https://shubendu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>https://shubendu.github.io/contact/</link>
+      <pubDate>Thu, 23 Apr 2020 20:03:58 +0530</pubDate>
+      
+      <guid>https://shubendu.github.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://shubendu.github.io/about/</link>
+      <pubDate>Thu, 23 Apr 2020 19:57:09 +0530</pubDate>
+      
+      <guid>https://shubendu.github.io/about/</guid>
+      <description>Let me introduce myself I&amp;rsquo;m a highly motivated and passionate Data Scientist whose dream is to use my talents in machine learning/AI and deep learning to solve real-world problems and make the customer achieve more.</description>
+    </item>
+    
+    <item>
+      <title>Sentiment analysis of tweets</title>
+      <link>https://shubendu.github.io/post/sentiment-analysis-tweets/</link>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shubendu.github.io/post/sentiment-analysis-tweets/</guid>
+      <description>Problem Twitter data is massive and as such analyzing twitter data is a mammoth undertaking. the cleaning and pre-processing of Twitter.</description>
+    </item>
+    
+    <item>
+      <title>Loan Defaulters</title>
+      <link>https://shubendu.github.io/post/loan-defaulters/</link>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shubendu.github.io/post/loan-defaulters/</guid>
+      <description>Problem For this project we will be exploring the publicly available data from LendingClub.com. Lending Club connects people who need money (borrowers) with people who have money (investors).</description>
+    </item>
+    
+    <item>
+      <title>Human Activity Recognition with Smartphones</title>
+      <link>https://shubendu.github.io/post/human-activity-recognition-using-svm/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shubendu.github.io/post/human-activity-recognition-using-svm/</guid>
+      <description>Problem Statement The Human Activity Recognition database was built from the recordings of 30 study participants performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.</description>
+    </item>
+    
+    <item>
+      <title>Financial Distress Prediction using SMOTE</title>
+      <link>https://shubendu.github.io/post/financial-distress-prediction/</link>
+      <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shubendu.github.io/post/financial-distress-prediction/</guid>
+      <description>Problem Statement Credit scoring algorithms, which makes a guess at the probability of default, are the method banks use to determine whether or not a loan should be granted.</description>
+    </item>
+    
+  </channel>
+</rss>

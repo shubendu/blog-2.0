@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Text Preprocessing on My Blog</title>
+    <link>https://shubendu.github.io/tags/text-preprocessing/</link>
+    <description>Recent content in Text Preprocessing on My Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://shubendu.github.io/tags/text-preprocessing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sentiment analysis of tweets</title>
+      <link>https://shubendu.github.io/post/sentiment-analysis-tweets/</link>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shubendu.github.io/post/sentiment-analysis-tweets/</guid>
+      <description>Problem Twitter data is massive and as such analyzing twitter data is a mammoth undertaking. the cleaning and pre-processing of Twitter.</description>
+    </item>
+    
+  </channel>
+</rss>

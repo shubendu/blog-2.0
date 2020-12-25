@@ -1,0 +1,6 @@
+<footer>
+    <span class="copyright">
+        {{ with .Site.Copyright | default "&copy;" }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
+        <a href="https://shubendu.netlify.app/" title="hugo-sugoi" alt="hugo-sugoi" target="_blank">Shubendu Biswas</a> | <a href="https://shubendu.github.io/" >Home</a>
+    </span>
+</footer>

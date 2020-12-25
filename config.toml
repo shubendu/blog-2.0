@@ -1,0 +1,39 @@
+theme = "hugo-sugoi"
+baseURL = "https://shubendu.github.io"
+languageCode = "en-us"
+title = "My Blog"
+summaryLength = 20
+paginate = 5
+# Google Analytics ID, Uncomment below line to enable
+# googleAnalytics = "UA-123-45"
+
+# Enter your disqus Shortname and uncomment below line to enable
+disqusShortname = "shub-blogs.disqus.com"
+
+[params]
+favicon = "images/favicon.png"
+herotitle = "Shubendu Biswas"
+heroo = "Software Developer | Data Scientist | Machine Learning Engineer"
+herolink = "https://shubendu.netlify.app/"
+herolinktext = "My Website"
+contact = "Send me a message and I will get back as soon as possible."
+
+[hero]
+
+[menu]
+    [[menu.nav]]
+        name    = "about"
+        pre = "<i class='fas fa-home'></i>"
+        url     = "about"
+        weight  = -1
+    [[menu.nav]]
+        name    = "All Post"
+        pre = "<i class='fas fa-list'></i>"
+        url     = "post"
+        weight  = -2
+    [[menu.nav]]
+        name    = "contact"
+        pre = "<i class='fas fa-envelope'></i>"
+        url     = "contact"
+        weight  = -3
+
